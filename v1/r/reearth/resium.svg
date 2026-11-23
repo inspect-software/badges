@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="137" height="20" viewBox="0 0 137 20" role="img" aria-label="inspect.software software health index 91 of 100, excellent (grade AA)" font-family="Verdana,DejaVu Sans,Geneva,sans-serif">
+  <title>inspect.software software health index 91 of 100, excellent (grade AA)</title>
+  <defs>
+    <linearGradient id="plate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d3d5c"/><stop offset="1" stop-color="#0a1926"/>
+    </linearGradient>
+    <linearGradient id="endplate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2cbc90"/><stop offset="1" stop-color="#1a8a68"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".13"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".03"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="guilloche" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="5" stroke="#fff" stroke-opacity=".045" stroke-width="1.1"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="137" height="20" rx="4"/></clipPath>
+    <radialGradient id="sealFace" cx=".36" cy=".3" r=".95">
+      <stop offset="0" stop-color="#3ecf9e"/><stop offset=".55" stop-color="#21aa81"/><stop offset="1" stop-color="#1a8a68"/>
+    </radialGradient>
+    <filter id="sealShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="0.7" stdDeviation="0.7" flood-color="#000" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="137" height="20" fill="url(#plate)"/>
+    <rect width="137" height="20" fill="url(#guilloche)"/>
+    <polygon points="105.6,0 137,0 137,20 101.1,20" fill="url(#endplate)"/>
+    <polygon points="105.6,0 106.9,0 102.4,20 101.1,20" fill="#fff" fill-opacity=".22"/>
+    <text x="22.0" y="7.1" font-size="5.8" letter-spacing="0.55" fill="#fff" fill-opacity=".66" font-weight="bold" textLength="76.3" lengthAdjust="spacing">SOFTWARE HEALTH</text>
+    <text x="22.0" y="17.2" font-size="8.4" fill="#000" fill-opacity=".3" font-weight="bold" letter-spacing="0.55" textLength="65.1" lengthAdjust="spacing">EXCELLENT</text>
+    <text x="22.0" y="16.6" font-size="8.4" fill="#fff" font-weight="bold" letter-spacing="0.55" textLength="65.1" lengthAdjust="spacing">EXCELLENT</text>
+    <text x="119.0" y="14.1" font-size="10.6" fill="#000" fill-opacity=".3" font-weight="bold" text-anchor="middle">91</text>
+    <text x="119.0" y="13.6" font-size="10.6" fill="#fff" font-weight="bold" text-anchor="middle">91</text>
+    <rect width="137" height="20" fill="url(#gloss)"/>
+  </g>
+  <rect x=".5" y=".5" width="136" height="19" rx="3.5" fill="none" stroke="#000" stroke-opacity=".25"/>
+  <g filter="url(#sealShadow)"><path d="M10.20 1.20 L12.11 2.86 L14.60 2.38 L15.43 4.77 L17.82 5.60 L17.34 8.09 L19.00 10.00 L17.34 11.91 L17.82 14.40 L15.43 15.23 L14.60 17.62 L12.11 17.14 L10.20 18.80 L8.29 17.14 L5.80 17.62 L4.97 15.23 L2.58 14.40 L3.06 11.91 L1.40 10.00 L3.06 8.09 L2.58 5.60 L4.97 4.77 L5.80 2.38 L8.29 2.86 L10.20 1.20 Z" fill="#1a8a68"/></g><path d="M12.24 2.37 L13.52 4.25 L15.79 4.41 L15.95 6.68 L17.83 7.96 L16.84 10.00 L17.83 12.04 L15.95 13.32 L15.79 15.59 L13.52 15.75 L12.24 17.63 L10.20 16.64 L8.16 17.63 L6.88 15.75 L4.61 15.59 L4.45 13.32 L2.57 12.04 L3.56 10.00 L2.57 7.96 L4.45 6.68 L4.61 4.41 L6.88 4.25 L8.16 2.37 L10.20 3.36 L12.24 2.37 Z" fill="#2cbc90" fill-opacity=".9"/><path d="M10.20 3.00 L11.72 4.32 L13.70 3.94 L14.36 5.84 L16.26 6.50 L15.88 8.48 L17.20 10.00 L15.88 11.52 L16.26 13.50 L14.36 14.16 L13.70 16.06 L11.72 15.68 L10.20 17.00 L8.68 15.68 L6.70 16.06 L6.04 14.16 L4.14 13.50 L4.52 11.52 L3.20 10.00 L4.52 8.48 L4.14 6.50 L6.04 5.84 L6.70 3.94 L8.68 4.32 L10.20 3.00 Z" fill="url(#sealFace)"/><circle cx="10.2" cy="10.0" r="5.8" fill="none" stroke="#fff" stroke-opacity=".85" stroke-width=".7"/><path d="M5.4 6.7 A5.8 5.8 0 0 1 13.5 5.2" stroke="#fff" stroke-opacity=".5" stroke-width=".8" fill="none" stroke-linecap="round"/><text x="10.2" y="12.4" font-size="6.6" fill="#fff" font-weight="bold" text-anchor="middle" letter-spacing=".2">AA</text>
+</svg>
